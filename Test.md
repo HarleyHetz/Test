@@ -1,1 +1,1 @@
-This is a test of the Git program and GitHub. I am making a change after adding the file. Nothing happened because it wasn't really added. Now, it's both added, and committed. New change to see how that works. Another change to see how branches work.
+This is a test of the Git program and GitHub. I am making a change after adding the file. Nothing happened because it wasn't really added. Now, it's both added, and committed. New change to see how that works. So I checked out "Original" and added this.
