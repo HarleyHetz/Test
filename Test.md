@@ -1,0 +1,1 @@
+This is a test of the Git program and GitHub. I am making a change after adding the file.
